@@ -1,0 +1,18 @@
+[project]
+name = "ml-natural-sciences"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "breizhcrops>=0.0.4.1",
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "lightning>=2.5.1.post0",
+    "matplotlib>=3.10.3",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.19.0",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "tqdm>=4.67.1",
+]
